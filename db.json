@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "0e5d",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-2.jpg",
+      "price": "3456",
+      "category": "Female"
+    },
+    {
+      "id": "3a45",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-7.jpg",
+      "price": "2344",
+      "category": "Female"
+    },
+    {
+      "id": "1698",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-1.jpg",
+      "price": "7890",
+      "category": "Female"
+    },
+    {
+      "id": "c411",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-8.jpg",
+      "price": "12345",
+      "category": "Female"
+    },
+    {
+      "id": "619a",
+      "title": "tops",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-4.jpg",
+      "price": "4566",
+      "category": "Female",
+      "brand": "TOPSHOP"
+    },
+    {
+      "id": "b6e8",
+      "title": "tops",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-5.jpg",
+      "price": "56789",
+      "category": "Female",
+      "brand": "MANGO"
+    },
+    {
+      "id": "6ae2",
+      "title": "t-shits",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-9.jpg",
+      "price": "7890",
+      "category": "Child",
+      "brand": "ZARA"
+    },
+    {
+      "id": "70e2",
+      "title": "grawon",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-8.jpg",
+      "price": "10000",
+      "category": "Female",
+      "brand": "TOPSHOP"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1698",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-1.jpg",
+      "price": "7890",
+      "category": "Female",
+      "qnt": 4
+    },
+    {
+      "id": "0e5d",
+      "title": "dress",
+      "img": "https://themewagon.github.io/essence/img/product-img/product-2.jpg",
+      "price": "3456",
+      "category": "Female",
+      "qnt": 1
+    }
+  ],
+  "user": [
+    {
+      "id": "205e",
+      "user": "komal",
+      "email": "kmpipaliya73@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1922",
+      "user": "komal",
+      "email": "hirva@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "be14"
+    },
+    {
+      "id": "3c24"
+    },
+    {
+      "id": "02e4"
+    },
+    {
+      "id": "fc80"
+    },
+    {
+      "id": "a2b0"
+    }
+  ]
+}
